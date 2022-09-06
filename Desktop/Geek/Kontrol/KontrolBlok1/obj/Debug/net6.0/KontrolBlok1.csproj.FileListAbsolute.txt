@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\obj\Debug\net6.0\KontrolBlok1.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\obj\Debug\net6.0\KontrolBlok1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\obj\Debug\net6.0\KontrolBlok1.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\obj\Debug\net6.0\KontrolBlok1.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\obj\Debug\net6.0\KontrolBlok1.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\bin\Debug\net6.0\KontrolBlok1.exe
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\bin\Debug\net6.0\KontrolBlok1.deps.json
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\bin\Debug\net6.0\KontrolBlok1.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\bin\Debug\net6.0\KontrolBlok1.dll
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\bin\Debug\net6.0\KontrolBlok1.pdb
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\obj\Debug\net6.0\KontrolBlok1.dll
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\obj\Debug\net6.0\refint\KontrolBlok1.dll
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\obj\Debug\net6.0\KontrolBlok1.pdb
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\obj\Debug\net6.0\KontrolBlok1.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\Geek\Kontrol\KontrolBlok1\obj\Debug\net6.0\ref\KontrolBlok1.dll
