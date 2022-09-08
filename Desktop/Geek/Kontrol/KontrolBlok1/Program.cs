@@ -1,6 +1,5 @@
 ﻿// Напишите программу, которая из имеющегося массива строк формирует массив из строк, 
-// длина которых меньше или равна 3 символам. Первоначальный массив можно ввести 
-// с клавиатуры, либо задать на старте выполнения алгоритма. 
+// длина которых меньше или равна 3 символам.
 
 string[] arrayPoetry = {"Кар", "!", " ворона ","прилетела ", "на", " дубовый ", "сук",
  "\r\n", "Кар", "!", " другая ", "рядом ","села ", "в ", "бок", " соседку ", "тюк"};
@@ -27,9 +26,9 @@ void Choice(string[] arrayPoetry, string[] arrayWords)
 }
 void PrintArray(string[] array)
 {
-    for (int i = 0; i < array.Length; i++)
+    for (int j = 0; j < array.Length; j++)
     {
-        Console.WriteLine("{1}", i, arrayWords[i]);
+        Console.WriteLine("{1}", j, arrayWords[j]);
     }
     Console.WriteLine();
   }
